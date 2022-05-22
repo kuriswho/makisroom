@@ -1,2 +1,2 @@
 # makisroom
-personal website
+personal blog and website

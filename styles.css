@@ -1,0 +1,35 @@
+    body {
+	background: #272727 ;
+	color: #ccc ;
+	max-width: 800px ;
+	margin: auto ;
+	padding: 0 16px ;
+	margin-bottom: 500px ;
+	font-family: sans-serif ;
+}
+
+a {
+	color: #caa996 ;
+}
+
+a:visited {
+	color: gray ;
+}
+
+h1 {
+	text-align: center ;
+    color: #caa996 ;
+}
+
+h2 {
+	text-align: center ;
+	color: #caa996 ;
+}
+
+h3 {
+	color: #caa996 ;
+}
+
+footer {
+	text-align: center ;
+}
