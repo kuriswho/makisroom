@@ -1,6 +1,6 @@
     body {
-	background: #272727 ;
-	color: #ccc ;
+	background: #292929 ;
+	color: #f3ddcf ;
 	max-width: 800px ;
 	margin: auto ;
 	padding: 0 16px ;
@@ -9,25 +9,25 @@
 }
 
 a {
-	color: #caa996 ;
+	color: #3e774a ;
 }
 
 a:visited {
-	color: gray ;
+	color: #83a379 ;
 }
 
 h1 {
 	text-align: center ;
-    color: #caa996 ;
+    color: #3e774a ;
 }
 
 h2 {
 	text-align: center ;
-	color: #caa996 ;
+	color: #3e774a ;
 }
 
 h3 {
-	color: #caa996 ;
+	color: #3e774a ;
 }
 
 footer {
